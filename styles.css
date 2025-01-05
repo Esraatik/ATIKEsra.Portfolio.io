@@ -16,6 +16,11 @@ body{
     font-family: "Noto Sans", serif;
 }
 
+a{
+    color: #000;
+    font-weight: 515;
+    text-decoration: none;
+}
 
 nav {
     display: flex;
